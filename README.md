@@ -1,4 +1,3 @@
-```markdown
 # DSP 專案集
 
 本倉庫具開發的三個 MATLAB 數位訊號處理專案，涵蓋 FIR 濾波器頻率響應、陷波濾波器去除雜訊，以及 IIR 濾波器組音符偵測。
@@ -137,8 +136,8 @@
 1. 將本倉庫複製至本機：  
    ```bash
    git clone https://github.com/leeminwei/Digital-Signal-Processing.git
-   cd (DSP_graduate/DSP_undergraduate/Final_project)
-````
+   cd (DSP_graduate/DSP_undergraduate/Final_project)    
+    ```
 
 2. 打開 MATLAB，將工作目錄切至欲執行之專案資料夾。
 3. 執行對應主程式，如：
