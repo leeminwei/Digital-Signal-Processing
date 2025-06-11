@@ -28,10 +28,10 @@
 
 /DSP-Projects
 ├─ DSP_undergraduate/      # 專案 1：FIR 濾波器頻率響應與取樣影響
-│   ├─ DSP\_undergraduate.m
+│   ├─ DSP_undergraduate.m
 │   └─ README.md
 ├─ DSP_graduate/      # 專案 2：FIR 陷波濾波器去除雜訊
-│   ├─ DSP\_graduate.m
+│   ├─ DSP_graduate.m
 │   └─ README.md
 ├─ Final_project/       # 專案 3：IIR 濾波器組音符偵測
 │   ├─ toneDetect.m
