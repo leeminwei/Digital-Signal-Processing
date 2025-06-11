@@ -28,21 +28,18 @@
 ```
 
 /DSP-Projects
-│
-├── Project1\_SamplingEffects/      # 專案 1：FIR 濾波器頻率響應與取樣影響
-│   ├── DSP_undergraduate.m
-│   └── README.md
-│
-├── Project2\_NotchFiltering/      # 專案 2：FIR 陷波濾波器去除雜訊
-│   ├── DSP_graduate.m
-│   └── README.md
-│
-├── Project3\_NoteDetection/       # 專案 3：IIR 濾波器組音符偵測
-│   ├── toneDetect.m
-|   ├── main.m
-│   └── README.md
-│
-└── README.md                     # 本檔
+├─ DSP_undergraduate/      # 專案 1：FIR 濾波器頻率響應與取樣影響
+│   ├─ DSP\_undergraduate.m
+│   └─ README.md
+├─ DSP_graduate/      # 專案 2：FIR 陷波濾波器去除雜訊
+│   ├─ DSP\_graduate.m
+│   └─ README.md
+├─ Final_project/       # 專案 3：IIR 濾波器組音符偵測
+│   ├─ toneDetect.m
+│   ├─ main.m
+│   └─ README.md
+└─ README.md                     # 本檔
+
 
 ````
 
